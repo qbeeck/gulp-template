@@ -1,4 +1,4 @@
-# gulp-frontend-boilerplate
+# gulp-template
 ### Installation
 1. install Node.js <https://nodejs.org/en/>
 2. install global GULP: run npm install --global gulp-cli https://gulpjs.com/docs/en/getting-started/quick-start
